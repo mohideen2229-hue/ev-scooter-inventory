@@ -1,4 +1,4 @@
-Part No,Part Name,Category,Quantity,Purchase Price,Selling Price,Location
+Part No,Part Name,Category,Quantity,Purchase Price,Selling Price,Location,Stock Status
 BAT-48V20,48V 20Ah Battery,Battery,15,18000,22000,Chennai
 MTR-1000,1000W BLDC Motor,Motor,8,7500,9500,Chennai
 CTRL-48V,48V Controller,Controller,15,3500,4500,Chennai
