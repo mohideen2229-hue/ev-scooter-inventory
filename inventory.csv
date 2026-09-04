@@ -1,8 +1,8 @@
-Part No,Part Name,Category,Quantity,Purchase Price,Selling Price,Location,Stock Status
-BAT-48V20,48V 20Ah Battery,Battery,15,18000,22000,Chennai,ok
-MTR-1000,1000W BLDC Motor,Motor,8,7500,9500,Chennai,low
-CTRL-48V,48V Controller,Controller,15,3500,4500,Chennai,ok
-THR-001,Throttle,Electrical,30,450,650,Chennai,ok
-DISP-001,LCD Display,Electrical,20,1200,1800,Chennai,ok
-DC-DC-48V,48V DC-DC Converter,Electrical,12,850,1200,Chennai,ok
-BRK-001,Brake Lever,Mechanical,25,300,500,Chennai,low
+Part No,Part Name,Category,Quantity,Purchase Price,Selling Price,Location,Stock Status,Status Type
+BAT-48V20,48V 20Ah Battery,Battery,15,18000,22000,Chennai,ok,Green
+MTR-1000,1000W BLDC Motor,Motor,8,7500,9500,Chennai,low,Red
+CTRL-48V,48V Controller,Controller,15,3500,4500,Chennai,ok,Amber
+THR-001,Throttle,Electrical,30,450,650,Chennai,ok,Green
+DISP-001,LCD Display,Electrical,20,1200,1800,Chennai,ok,Amber
+DC-DC-48V,48V DC-DC Converter,Electrical,12,850,1200,Chennai,ok,Amber
+BRK-001,Brake Lever,Mechanical,25,300,500,Chennai,low,Red
